@@ -1,0 +1,7 @@
+C:\Users\DELL CORE i5\source\repos\prueba\prueba\obj\Debug\prueba.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\source\repos\prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\DELL CORE i5\source\repos\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\DELL CORE i5\source\repos\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\DELL CORE i5\source\repos\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\DELL CORE i5\source\repos\prueba\prueba\obj\Debug\prueba.pdb
